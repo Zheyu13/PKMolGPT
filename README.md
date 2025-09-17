@@ -4,6 +4,6 @@ This repository is for the research project on polyketide molecular generation u
 ## 2. Dataset
 ## 3. Sh file
 
-To use the model, install all the libraries and create necessary directories. Then ues the command:
+To use the model, install all the libraries and create necessary directories. Then use the command:
 ```bash
 ./sh_file
