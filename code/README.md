@@ -4,3 +4,5 @@ Suitable to GuacalMol dataset.
 Suitable to original COCONUT dataset.
 # _pk
 Suitable to Polyketide dataset.
+# lightgbm
+The scorer model for polyketides. 
