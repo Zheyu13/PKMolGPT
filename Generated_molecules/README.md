@@ -1,4 +1,5 @@
-This folder includes generated molecules (which has shown in dissertation by table):
+This folder includes generated molecules (which has shown in dissertation by table).
+Within this, the names represent the different properties specified during generation, while 'un' denotes unconditional generation:
 # Guacamol: Table 4.1
 
 # Coconut: Table 4.2
